@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(153, 149, 149);
+    font-family: sans-serif;
+}
+
+#main-container {
+    width: 400px;
+    background-color: white;
+    color: black;
+    margin: auto;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px solid blue;
+}
